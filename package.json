@@ -1,0 +1,26 @@
+{
+  "name": "mandom",
+  "version": "0.0.0",
+  "description": "A random generator that mimics the human's brain cognitive bias.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didier-deschamps-magnetiques/mandom.git"
+  },
+  "keywords": [
+    "brain",
+    "random",
+    "generator",
+    "human",
+    "fucked"
+  ],
+  "author": "@pwetosaurus",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/didier-deschamps-magnetiques/mandom/issues"
+  },
+  "homepage": "https://github.com/didier-deschamps-magnetiques/mandom#readme"
+}
