@@ -1,4 +1,5 @@
 export default AlmostRandom = () => {
+  // almost random number must have the same precision than a random one.
   const length = Math.random().toString().length;
   let almostRandom = 0;
 
